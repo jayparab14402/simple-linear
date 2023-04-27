@@ -1,0 +1,18 @@
+Creating and managing vector data: Adding vector layer, setting properties, formatting, calculating line length and statistics.
+Adding Vecor layer.
+Create new project. Click on Layer Create Layer New Shapefile Layer…
+Set the name and location of file. Select geometry type as polygon. Add new field as Name and click on Add to field list button.
+Click Toggle Editing Button → then Click on Add Polygon; Now place the cursor at the location where you want to place the polygon. For polygon layer minimum 3 points should be selected. Give id and Name to the polygon.
+To change the property of layer right click on layer matunga from Layers pane and select Properties...
+Similarly add one more layer garden and add polygons to represent garden, also provide id and Name of each polygon being created.
+Creating Line vector layer:
+Repeat the same steps as we have done for polygon layer. ➢ Select geometry type Line.
+To plot road click on Add Line Feature.
+Click on the map where you want to draw line. Once you are done then right click on map (Dotted line turn into solid line).
+Save your data. And also change properties of road layer.
+To label your roads Right click on Road layer .Go to properties window then select label and set single label property.
+To merge roads go to properties of road then select symbology. Click on Advanced button select Symbol levels.
+Check Enable symbol levels option and click on OK.
+Similarly add two more layers as small_road and flyover.
+Create Point vector layer ➢ Repeat same steps to add point layers as we have done in previous layers. (For ATM, Restaurants, Banks, Bus Stops etc).
+
